@@ -2,8 +2,9 @@
 A mobile application built with React Native that employs GPS functionality to empower users in tracking their routes, which can be subsequently stored in a database. Users also gain the ability to review past routes, ascertain the overall distance traveled, and benefit from comprehensive user authentication support.
 
 
-##Screenshots
-![signup](<img src="https://github.com/favicon.ico" width="48">)
+## Screenshots
+![signup](https://github.com/rahulSailesh-shah/Route-Tracker/assets/138985384/7c3fdb75-24ed-41e1-b005-4a6ee3fdef15 =100x100)
+
 
 ## Expo React Native App Setup Guide
 
