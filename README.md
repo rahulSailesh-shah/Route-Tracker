@@ -3,7 +3,7 @@ A mobile application built with React Native that employs GPS functionality to e
 
 
 ## Screenshots
-<img src="https://github.com/rahulSailesh-shah/Route-Tracker/assets/138985384/7c3fdb75-24ed-41e1-b005-4a6ee3fdef15" alt="mypic" style="width:200px; height:200px"/>
+<img src="https://github.com/rahulSailesh-shah/Route-Tracker/assets/138985384/7c3fdb75-24ed-41e1-b005-4a6ee3fdef15" alt="mypic" style="width:300px"/>
 
 
 ## Expo React Native App Setup Guide
