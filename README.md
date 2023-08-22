@@ -3,14 +3,10 @@ A mobile application built with React Native that employs GPS functionality to e
 
 ## Screenshots
 <img src="https://github.com/rahulSailesh-shah/Route-Tracker/assets/138985384/7c3fdb75-24ed-41e1-b005-4a6ee3fdef15" alt="signup" style="width:300px"/>
-
 <img src="https://github.com/rahulSailesh-shah/Route-Tracker/assets/138985384/290e2f7f-fde8-482f-ad66-f679e36359b7" alt="otp"      
 style="width:300px"/>
-
 <img src="https://github.com/rahulSailesh-shah/Route-Tracker/assets/138985384/45b83edb-06c9-4da2-ac52-49297eadf0d8" alt="track-route" style="width:300px"/>
-
 <img src="https://github.com/rahulSailesh-shah/Route-Tracker/assets/138985384/c1872e17-041e-4647-8835-67c242c62bfc" alt="list-route" style="width:300px"/>
-
 <img src="https://github.com/rahulSailesh-shah/Route-Tracker/assets/138985384/e5303f3f-17ef-4108-bb9d-264c070ee0de" alt="track-details" style="width:300px"/>
 
 
