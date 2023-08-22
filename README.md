@@ -8,6 +8,7 @@ style="width:300px"/>
 <img src="https://github.com/rahulSailesh-shah/Route-Tracker/assets/138985384/45b83edb-06c9-4da2-ac52-49297eadf0d8" alt="track-route" style="width:300px"/>
 <img src="https://github.com/rahulSailesh-shah/Route-Tracker/assets/138985384/c1872e17-041e-4647-8835-67c242c62bfc" alt="list-route" style="width:300px"/>
 <img src="https://github.com/rahulSailesh-shah/Route-Tracker/assets/138985384/e5303f3f-17ef-4108-bb9d-264c070ee0de" alt="track-details" style="width:300px"/>
+<img src="https://github.com/rahulSailesh-shah/Route-Tracker/assets/138985384/45b83edb-06c9-4da2-ac52-49297eadf0d8" alt="track-route" style="width:300px"/>
 
 
 ## Expo React Native App Setup Guide
