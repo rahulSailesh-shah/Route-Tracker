@@ -1,8 +1,11 @@
-**
-A mobile application built with React Native that employs GPS functionality to empower users in tracking their routes, which can be subsequently stored in a database. Users also gain the ability to review past routes, ascertain the overall distance traveled, and benefit from comprehensive user authentication support.**
+# Route Tracker
+A mobile application built with React Native that employs GPS functionality to empower users in tracking their routes, which can be subsequently stored in a database. Users also gain the ability to review past routes, ascertain the overall distance traveled, and benefit from comprehensive user authentication support.
 
 
-# Expo React Native App Setup Guide
+##Screenshots
+![signup](https://github.com/rahulSailesh-shah/Route-Tracker/assets/138985384/f14b5c8a-dfe2-4a0e-a299-6bd3f353efac)
+
+## Expo React Native App Setup Guide
 
 Welcome to the setup guide for the Expo-generated React Native app! This guide will walk you through the steps to get the app up and running on your local development environment.
 
